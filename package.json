@@ -1,0 +1,17 @@
+{
+  "name": "request_bot_tester",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "tiaraju",
+  "license": "ISC",
+  "bin": {
+    "snippet": "./index.js"
+  },
+  "dependencies": {
+    "superagent": "^3.6.0"
+  }
+}

@@ -1,0 +1,9 @@
+[
+	{
+		"url":"http://qamarketplace.vtexcommercebeta.com.br/api/checkout/fulfillment/pvt/orders",
+		"port":80,
+		"headers":{},
+		"method":"GET",
+		"expectedResponse":{}
+	}
+]
