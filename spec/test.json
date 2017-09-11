@@ -1,0 +1,9 @@
+[
+	{
+		"url":"http://httpbin.org/ip",
+		"port":"",
+		"headers":{},
+		"method":"GET",
+		"expectedResponse":{"origin": "200.142.121.50"}
+	}
+]

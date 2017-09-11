@@ -12,6 +12,7 @@
     "snippet": "./index.js"
   },
   "dependencies": {
+    "fs": "0.0.1-security",
     "superagent": "^3.6.0"
   }
 }
